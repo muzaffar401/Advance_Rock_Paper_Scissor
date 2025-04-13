@@ -1,6 +1,7 @@
 # 🎮 Advanced Rock Paper Scissors Game
 
-![Game Banner](https://raw.githubusercontent.com/username/rock_paper_scissor/main/images/banner.png)
+![image](https://github.com/user-attachments/assets/0e68e18e-c527-4f80-b5a7-734eb0b8604f)
+
 
 A modern, interactive implementation of the classic Rock Paper Scissors game built with Streamlit. Features an engaging UI, real-time animations, and comprehensive game statistics.
 
@@ -78,8 +79,8 @@ rock_paper_scissor/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/username/rock_paper_scissor.git
-   cd rock_paper_scissor
+   git clone https://github.com/username/Advance_Rock_Paper_Scissor.git
+   cd Advance_Rock_Paper_Scissor
    ```
 
 2. **Set up a virtual environment**
